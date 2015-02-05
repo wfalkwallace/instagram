@@ -19,7 +19,7 @@ class PhotosViewController: UITableViewController {
 
         // Do any additional setup after loading the view.
 
-        var clientId = "add sourcing"
+        var clientId = "add sourcing for this for github safety"
 
         var url = NSURL(string: "https://api.instagram.com/v1/media/popular?client_id=\(clientId)")!
         var request = NSURLRequest(URL: url)
