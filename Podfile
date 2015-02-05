@@ -10,4 +10,3 @@ end
 target 'instagramTests' do
 
 end
-
